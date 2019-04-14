@@ -1,0 +1,23 @@
+EPS last year > 10 AND
+Debt to equity < .1 AND
+Dividend yield > 2% and 
+Price to Earning < 20 AND
+Return on equity > 20 AND
+Sales growth 3Years > 10% and 
+Profit growth 3Years > 10% and 
+Average return on capital employed 5Years > 35 AND
+Market Capitalization > 100 AND
+OPM 5Year >15 AND
+Net Profit latest quarter  > 1
+
+Market Capitalization >500 AND
+Sales growth 5Years >15 AND
+Profit growth 5Years >15 AND
+Debt to equity <1 AND
+Net cash flow last year >0 AND
+PEG Ratio <1 AND
+Promoter holding >30 AND
+Pledged percentage <15 AND
+Average return on equity 5Years > 12 AND
+Average return on capital employed 5Years > 12
+
