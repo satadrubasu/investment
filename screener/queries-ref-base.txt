@@ -1,3 +1,17 @@
+
+Build
+=========
+Sales growth 2Years > 30% and 
+Profit growth 3Years > 5% and 
+Debt to equity < .5 AND
+Current liabilities < Market Capitalization
+Return on Capital employed > 22% AND
+
+
+
+
+Reference
+=================
 EPS last year > 10 AND
 Debt to equity < .1 AND
 Dividend yield > 2% and 
