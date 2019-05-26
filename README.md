@@ -1,8 +1,14 @@
-# investment
-Tools and reference
+# Investment
 
 
-# Foundation Items
+## 1 Screen Companies
+ 1.Market Cap
+ 2.Screener Credit Rating  
+
+## 2 
+
+
+## Foundation Items
 
 1. MACD
 2. Moving Averages
