@@ -8,9 +8,15 @@
 ## 2 
 
 
-## Foundation Items
+## Technical chart Items
 
-1. MACD
+### 1.MACD 
+ a) MACD Line (Blue) :       (12day EMA)  - (26day EMA )
+ b) Signal Line:      9 day EMA of MACD Line
+ c) MACD Histogram:  (MACD Blueline) - (Signal Line)
+      
+      Momentum Reversal
+    
 2. Moving Averages
 3. RSI : Relative strength index for buy/sell
 4. Candlestick:
