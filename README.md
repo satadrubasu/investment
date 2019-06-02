@@ -2,25 +2,50 @@
 
 
 ## 1 Screen Companies
- 1.Market Cap
- 2.Screener Credit Rating  
+ 1. Market Cap
+ 2. Screener Credit Rating
+ 3. Screen queries ( already available )
 
-## 2 
 
-
-## Technical chart Items
+## Technical charts:
+  List of technical charts and notes for the same.
 
 ### 1.MACD 
- a) MACD Line (Blue) :       (12day EMA)  - (26day EMA )
- b) Signal Line:      9 day EMA of MACD Line
- c) MACD Histogram:  (MACD Blueline) - (Signal Line)
+ * MACD Line (Blue) :       (12day EMA)  - (26day EMA )
+ * Signal Line      :      9 day EMA of MACD Line
+ * MACD Histogram   :  (MACD Blueline) - (Signal Line)
       
       Momentum Reversal
     
 ### 2. Moving Averages
 ### 3. RSI : Relative strength index for buy/sell
-### 4. Candlestick:
-    Top five candlestick patterns
+### 4. Candlestick: ( Always has to be tied with other charts NOT in ISOLATION )
+  Longer wick = confusion or rejection ( apply to both green and red)
+                Selling or buying pressure
+  Longer Body = conviction
+  
+ * T.A.E patterns Trend / Areas of Value / Entry Trigger
+    Bullish Engulfing Pattern - bull engulfed last bear
+    Bearish Engulfing Pattern
+    
+    Hammer and Shooting star : Bullish/Bearish Reversal patterns
+    
+    Dragonfly Doji :
+    
+    Morning and Evening Star : Bullish/Bearish Reversal patterns
+    
+    Tweezer bottom and top :  Bullish/Bearish Reversal patterns
+    
+ * Trend: If the price is above the 200 MA , have a long basis
+          If Price is below the 200MA , have a short basis
+ * Area of value:
+    Support/Resistance
+    Moving Average
+    Trendline
+    Channel
+    
+ * Entry Trigger:
+    Reversal candlestick patterns
     
 ### 5. Ichimoku - https://www.youtube.com/watch?v=68deWblNcIM
    
@@ -43,7 +68,7 @@
      e) ( Dark future = cloud = brown )
      
  ## 1.ADX & DMI(+) (-)
-     To catch Momentum + Trade Direction + Chance of change in momentum.For trade the prime hunt should be volatility nedded for the movement alongside momentum.
+ To catch Momentum + Trade Direction + Chance of change in momentum.For trade the prime hunt should be volatility nedded for the movement alongside momentum.
      
      
      
