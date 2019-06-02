@@ -17,12 +17,12 @@
       
       Momentum Reversal
     
-2. Moving Averages
-3. RSI : Relative strength index for buy/sell
-4. Candlestick:
+## 1. Moving Averages
+## 1. RSI : Relative strength index for buy/sell
+## 1. Candlestick:
     Top five candlestick patterns
     
-5. Ichimoku - https://www.youtube.com/watch?v=68deWblNcIM
+## 1. Ichimoku - https://www.youtube.com/watch?v=68deWblNcIM
    
    @Action - Create scan logic for this in bots
     Equillibrium at a glance , indicator forprice to be able tomove strongly in one direction.
@@ -41,3 +41,14 @@
      c) (current price) BELOW (cloud)
      d) (Chikou / lag-26day-yellow) BELOW (current price)
      e) ( Dark future = cloud = brown )
+     
+ ## 1.ADX & DMI
+     To catch Momentum + Trade Direction + Chance of change in momentum.For trade the prime hunt should be volatility nedded for the movement alongside momentum.
+     
+     
+     
+   @Takeaways
+     i) Convectional crossovers leads to whipsaws
+     ii) Probable trends starts at crossover on/above 25 ( NOT BELOW)
+     iii) Crossovers below 25 leads to sideways and loose on brokerage rather than true trends
+     iv) Crossover should make a higher pivot above the previous pivot of opppsite DMI
