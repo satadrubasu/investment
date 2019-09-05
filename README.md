@@ -126,5 +126,15 @@
           c) superimpose with my other indicator and keep Ichimoku at one period above the ADX period.  
              Intent let Ichimoku govern macro trend , while verifying micro trends with ADX & Super trend.   
 
- ### 6. PSAR 
+ ### 6. VWAP ( Refer only IntraDay )
+   The average price a security has traded at throughout the day, based on both volume and price.
+   
+   #### Takeaways
+     i) VWAP is a single-day indicator, and is restarted at the open of each day.
+     ii) More effective in initial half of the day as volume used is calulated in cumulative fashion- tough to show significant changes even for larger price changes end of day.
+     iii) VWAP to be used with other indicator more towards start of day trade ( DI / Aroon )
+     iv) Anti-pattern strategy could be : breakout during initial times and wait for correction to get close towards VWAP.
+         Pro-pattern strategy could be : general trend defined at start of day continues.
+         * ( Use other indicators as per )
+   
     
