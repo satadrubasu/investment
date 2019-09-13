@@ -138,3 +138,9 @@
          * ( Use other indicators as per )
    
     
+    
+  ## Relevant sites  
+   1. stockaxis.com - validate recommendations
+   2. screener - practive screens 
+   3. stockedge - FII / DII movements and news.
+   
