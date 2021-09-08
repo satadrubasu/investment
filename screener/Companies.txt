@@ -5,3 +5,12 @@ Ajanta Pharma
 Bliss GVS Pharma
 
 Caplin Point Laboratories
+
+
+===
+fastly
+vmware
+okta
+nutanix
+new relic
+datadog
