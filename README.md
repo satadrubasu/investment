@@ -1,5 +1,23 @@
 # Trade / stay vested notes
 
+## 5 layer filters 
+   
+   1. Market Cap > 7000 cr
+      Eliminate the Penny
+   2. Sales Growth (10 yrs) > 10% for consequitive years 
+      not profit
+       Catch the quality product/service being offered
+   3. 10 yr AVG ROCE > 15%
+   4. Promoter Holding > 33% 
+      earliest to know news and start reflecting in patterns
+   5. SharePrice growth > 17 %
+      Share Price ( current Market Price growth trend in last 10 years
+   
+   
+   SCREENER :
+   ```
+   Market Capitalization > 7000 AND Sales growth 10Years > 10% AND Average return on capital employed 10Years > 15% AND Promoter holding >33% AND Return over 10years >17%
+   ```
 
 ## 1 Screen Companies  
  1. Screener queries ( already available )  
@@ -26,6 +44,8 @@
      ADX Micro breakout at 27+ ? && Ichimoku Macro stay per Resistance/support.  
     
 4. SHORT / Margin charges and identify operation cost.  
+
+
   
 ### 1.MACD   
   i) Trend Indicator and the cross overs to be considered with other entry/exits logic and crossovers  
